@@ -1,625 +1,625 @@
-date,day_of_week,weather,direction,position,hour,bikes
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,70
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,27
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,23
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,8
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,10
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,3
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,3
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,16
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,28
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,28
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,43
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,75
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,77
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,105
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,85
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,109
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,106
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,123
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,103
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,74
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,78
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,43
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,37
-9/18/10,Saturday,"21° C, Sunny No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,64
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,34
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,38
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,16
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,19
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,7
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,6
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,11
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,30
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,40
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,57
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,71
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,96
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,86
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,85
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,113
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,40
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,105
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,83
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,67
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,51
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,54
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,25
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,33
-9/18/10,Saturday,"21° C, Sunny No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,26
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,47
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,35
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,9
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,17
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,5
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,3
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,3
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,16
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,29
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,43
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,52
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,61
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,84
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,68
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,84
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,110
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,104
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,110
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,104
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,71
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,56
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,52
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,69
-9/25/10,Saturday,"18° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,66
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,27
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,27
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,17
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,14
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,12
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,8
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,15
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,32
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,70
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,72
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,77
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,101
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,102
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,113
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,88
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,63
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,81
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,50
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,47
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,54
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,48
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,39
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,32
-9/25/10,Saturday,"18° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,28
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,52
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,25
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,15
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,11
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,7
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,4
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,7
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,13
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,26
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,24
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,44
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,68
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,102
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,98
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,118
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,117
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,107
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,117
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,94
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,83
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,83
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,36
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,57
-9/19/10,Sunday,"20° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,42
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,21
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,17
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,10
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,13
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,6
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,3
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,16
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,16
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,38
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,66
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,84
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,123
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,124
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,117
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,107
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,118
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,108
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,87
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,75
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,46
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,44
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,34
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,21
-9/19/10,Sunday,"20° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,25
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,46
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,23
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,13
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,16
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,7
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,7
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,6
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,12
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,19
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,33
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,51
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,73
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,87
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,106
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,131
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,113
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,129
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,146
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,114
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,83
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,72
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,48
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,49
-9/26/10,Sunday,"17° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,47
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,30
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,23
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,14
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,12
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,10
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,2
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,23
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,13
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,40
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,68
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,64
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,82
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,109
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,110
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,105
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,62
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,105
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,81
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,75
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,59
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,27
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,18
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,8
-9/26/10,Sunday,"17° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,4
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,18
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,10
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,3
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,2
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,3
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,4
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,12
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,33
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,88
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,70
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,87
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,108
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,117
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,109
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,114
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,193
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,272
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,370
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,253
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,154
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,140
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,117
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,74
-9/20/10,Monday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,46
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,10
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,11
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,1
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,3
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,4
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,6
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,29
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,122
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,413
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,279
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,175
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,167
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,151
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,146
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,130
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,113
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,149
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,148
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,110
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,44
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,31
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,47
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,27
-9/20/10,Monday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,21
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,28
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,19
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,3
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,2
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,0
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,8
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,11
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,36
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,63
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,68
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,69
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,102
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,154
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,112
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,134
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,198
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,259
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,390
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,275
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,200
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,124
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,164
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,91
-9/21/10,Tuesday,"25° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,54
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,16
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,7
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,3
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,2
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,4
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,8
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,46
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,140
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,380
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,310
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,173
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,126
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,134
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,161
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,85
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,88
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,86
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,135
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,97
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,66
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,52
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,56
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,43
-9/21/10,Tuesday,"25° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,32
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,30
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,14
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,3
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,3
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,0
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,4
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,10
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,15
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,44
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,39
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,54
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,50
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,99
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,114
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,98
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,144
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,210
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,249
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,192
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,157
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,142
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,123
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,91
-9/22/10,Wednesday,"23° C, Rain 6mm",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,66
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,15
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,17
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,5
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,4
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,4
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,9
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,43
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,72
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,226
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,222
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,134
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,123
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,101
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,118
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,103
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,103
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,106
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,134
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,104
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,73
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,34
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,48
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,39
-9/22/10,Wednesday,"23° C, Rain 6mm",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,24
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,39
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,27
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,5
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,7
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,0
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,3
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,13
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,38
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,79
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,67
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,66
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,85
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,118
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,100
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,114
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,168
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,220
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,347
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,241
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,180
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,130
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,118
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,104
-9/23/10,Thursday,"19° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,88
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,25
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,9
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,7
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,11
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,4
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,11
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,50
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,142
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,352
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,336
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,175
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,139
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,126
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,131
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,113
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,123
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,151
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,146
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,120
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,70
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,54
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,40
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,30
-9/23/10,Thursday,"19° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,24
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,49
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,24
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,9
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,2
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,1
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,5
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,8
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,30
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,73
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,72
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,71
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,102
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,124
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,152
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,144
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,198
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,265
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,286
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,180
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,136
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,97
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,95
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,100
-9/24/10,Friday,"30° C, No Rain",Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,80
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,24
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,17
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,13
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,8
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,5
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,5
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,41
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,137
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,306
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,263
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,159
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,141
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,137
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,106
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,102
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,126
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,72
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,89
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,61
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,81
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,52
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,51
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,41
-9/24/10,Friday,"30° C, No Rain",Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,33
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,12:00 AM,23
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,1:00 AM,9
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,2:00 AM,7
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,3:00 AM,4
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,4:00 AM,5
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,5:00 AM,7
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,6:00 AM,67
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,7:00 AM,158
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,8:00 AM,511
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,9:00 AM,380
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,10:00 AM,147
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,11:00 AM,144
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,12:00 PM,159
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,1:00 PM,145
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,2:00 PM,119
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,3:00 PM,118
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,4:00 PM,128
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,5:00 PM,191
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,6:00 PM,151
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,7:00 PM,77
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,8:00 PM,77
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,9:00 PM,81
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,10:00 PM,46
-2017-09-27,Wednesday,"30°C, no rain",Eastbound,,11:00 PM,40
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,12:00 AM,43
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,1:00 AM,27
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,2:00 AM,9
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,3:00 AM,2
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,4:00 AM,6
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,5:00 AM,5
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,6:00 AM,24
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,7:00 AM,34
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,8:00 AM,100
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,9:00 AM,116
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,10:00 AM,61
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,11:00 AM,131
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,12:00 PM,139
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,1:00 PM,134
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,2:00 PM,164
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,3:00 PM,170
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,4:00 PM,301
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,5:00 PM,394
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,6:00 PM,328
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,7:00 PM,208
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,8:00 PM,178
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,9:00 PM,139
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,10:00 PM,99
-2017-09-27,Wednesday,"30°C, no rain",Westbound,,11:00 PM,61
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,12:00 AM,22
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,1:00 AM,6
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,2:00 AM,9
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,3:00 AM,3
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,4:00 AM,7
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,5:00 AM,16
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,6:00 AM,62
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,7:00 AM,155
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,8:00 AM,480
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,9:00 AM,333
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,10:00 AM,171
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,11:00 AM,148
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,12:00 PM,144
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,1:00 PM,137
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,2:00 PM,134
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,3:00 PM,113
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,4:00 PM,113
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,5:00 PM,151
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,6:00 PM,143
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,7:00 PM,105
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,8:00 PM,70
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,9:00 PM,69
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,10:00 PM,45
-2017-09-28,Thursday,"19°C, no rain",Eastbound,,11:00 PM,39
-2017-09-28,Thursday,"19°C, no rain",Westbound,,12:00 AM,39
-2017-09-28,Thursday,"19°C, no rain",Westbound,,1:00 AM,12
-2017-09-28,Thursday,"19°C, no rain",Westbound,,2:00 AM,8
-2017-09-28,Thursday,"19°C, no rain",Westbound,,3:00 AM,10
-2017-09-28,Thursday,"19°C, no rain",Westbound,,4:00 AM,4
-2017-09-28,Thursday,"19°C, no rain",Westbound,,5:00 AM,2
-2017-09-28,Thursday,"19°C, no rain",Westbound,,6:00 AM,21
-2017-09-28,Thursday,"19°C, no rain",Westbound,,7:00 AM,43
-2017-09-28,Thursday,"19°C, no rain",Westbound,,8:00 AM,82
-2017-09-28,Thursday,"19°C, no rain",Westbound,,9:00 AM,106
-2017-09-28,Thursday,"19°C, no rain",Westbound,,10:00 AM,49
-2017-09-28,Thursday,"19°C, no rain",Westbound,,11:00 AM,96
-2017-09-28,Thursday,"19°C, no rain",Westbound,,12:00 PM,142
-2017-09-28,Thursday,"19°C, no rain",Westbound,,1:00 PM,119
-2017-09-28,Thursday,"19°C, no rain",Westbound,,2:00 PM,158
-2017-09-28,Thursday,"19°C, no rain",Westbound,,3:00 PM,169
-2017-09-28,Thursday,"19°C, no rain",Westbound,,4:00 PM,308
-2017-09-28,Thursday,"19°C, no rain",Westbound,,5:00 PM,402
-2017-09-28,Thursday,"19°C, no rain",Westbound,,6:00 PM,312
-2017-09-28,Thursday,"19°C, no rain",Westbound,,7:00 PM,213
-2017-09-28,Thursday,"19°C, no rain",Westbound,,8:00 PM,150
-2017-09-28,Thursday,"19°C, no rain",Westbound,,9:00 PM,133
-2017-09-28,Thursday,"19°C, no rain",Westbound,,10:00 PM,101
-2017-09-28,Thursday,"19°C, no rain",Westbound,,11:00 PM,72
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,12:00 AM,15
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,1:00 AM,13
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,2:00 AM,9
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,3:00 AM,3
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,4:00 AM,11
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,5:00 AM,6
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,6:00 AM,55
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,7:00 AM,107
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,8:00 AM,389
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,9:00 AM,262
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,10:00 AM,82
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,11:00 AM,66
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,12:00 PM,62
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,1:00 PM,45
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,2:00 PM,91
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,3:00 PM,100
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,4:00 PM,123
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,5:00 PM,119
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,6:00 PM,99
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,7:00 PM,67
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,8:00 PM,48
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,9:00 PM,46
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,10:00 PM,20
-2017-09-29,Friday,"18°C, 4mm rain",Eastbound,,11:00 PM,16
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,12:00 AM,40
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,1:00 AM,15
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,2:00 AM,8
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,3:00 AM,5
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,4:00 AM,4
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,5:00 AM,8
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,6:00 AM,9
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,7:00 AM,28
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,8:00 AM,77
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,9:00 AM,76
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,10:00 AM,41
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,11:00 AM,63
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,12:00 PM,68
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,1:00 PM,79
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,2:00 PM,96
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,3:00 PM,144
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,4:00 PM,250
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,5:00 PM,320
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,6:00 PM,223
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,7:00 PM,130
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,8:00 PM,83
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,9:00 PM,58
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,10:00 PM,52
-2017-09-29,Friday,"18°C, 4mm rain",Westbound,,11:00 PM,47
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,12:00 AM,30
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,1:00 AM,18
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,2:00 AM,5
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,3:00 AM,9
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,4:00 AM,2
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,5:00 AM,7
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,6:00 AM,19
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,7:00 AM,21
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,8:00 AM,59
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,9:00 AM,65
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,10:00 AM,60
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,11:00 AM,88
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,12:00 PM,102
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,1:00 PM,104
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,2:00 PM,100
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,3:00 PM,115
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,4:00 PM,101
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,5:00 PM,106
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,6:00 PM,90
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,7:00 PM,90
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,8:00 PM,77
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,9:00 PM,79
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,10:00 PM,85
-2017-09-30,Saturday,"15°C, no rain",Eastbound,,11:00 PM,58
-2017-09-30,Saturday,"15°C, no rain",Westbound,,12:00 AM,33
-2017-09-30,Saturday,"15°C, no rain",Westbound,,1:00 AM,13
-2017-09-30,Saturday,"15°C, no rain",Westbound,,2:00 AM,11
-2017-09-30,Saturday,"15°C, no rain",Westbound,,3:00 AM,6
-2017-09-30,Saturday,"15°C, no rain",Westbound,,4:00 AM,4
-2017-09-30,Saturday,"15°C, no rain",Westbound,,5:00 AM,7
-2017-09-30,Saturday,"15°C, no rain",Westbound,,6:00 AM,6
-2017-09-30,Saturday,"15°C, no rain",Westbound,,7:00 AM,14
-2017-09-30,Saturday,"15°C, no rain",Westbound,,8:00 AM,22
-2017-09-30,Saturday,"15°C, no rain",Westbound,,9:00 AM,37
-2017-09-30,Saturday,"15°C, no rain",Westbound,,10:00 AM,48
-2017-09-30,Saturday,"15°C, no rain",Westbound,,11:00 AM,89
-2017-09-30,Saturday,"15°C, no rain",Westbound,,12:00 PM,100
-2017-09-30,Saturday,"15°C, no rain",Westbound,,1:00 PM,96
-2017-09-30,Saturday,"15°C, no rain",Westbound,,2:00 PM,109
-2017-09-30,Saturday,"15°C, no rain",Westbound,,3:00 PM,114
-2017-09-30,Saturday,"15°C, no rain",Westbound,,4:00 PM,132
-2017-09-30,Saturday,"15°C, no rain",Westbound,,5:00 PM,136
-2017-09-30,Saturday,"15°C, no rain",Westbound,,6:00 PM,120
-2017-09-30,Saturday,"15°C, no rain",Westbound,,7:00 PM,98
-2017-09-30,Saturday,"15°C, no rain",Westbound,,8:00 PM,79
-2017-09-30,Saturday,"15°C, no rain",Westbound,,9:00 PM,62
-2017-09-30,Saturday,"15°C, no rain",Westbound,,10:00 PM,80
-2017-09-30,Saturday,"15°C, no rain",Westbound,,11:00 PM,82
+date,day_of_week,temperature,weather,direction,position,hour,bikes
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,70
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,27
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,23
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,8
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,10
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,3
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,3
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,16
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,28
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,28
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,43
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,75
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,77
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,105
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,85
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,109
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,106
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,123
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,103
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,74
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,78
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,43
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,37
+9/18/10,Saturday,21, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,64
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,34
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,38
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,16
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,19
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,7
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,6
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,11
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,30
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,40
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,57
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,71
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,96
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,86
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,85
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,113
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,40
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,105
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,83
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,67
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,51
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,54
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,25
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,33
+9/18/10,Saturday,21, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,26
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,47
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,35
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,9
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,17
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,5
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,3
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,3
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,16
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,29
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,43
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,52
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,61
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,84
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,68
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,84
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,110
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,104
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,110
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,104
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,71
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,56
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,52
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,69
+9/25/10,Saturday,18, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,66
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,27
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,27
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,17
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,14
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,12
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,8
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,15
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,32
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,70
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,72
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,77
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,101
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,102
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,113
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,88
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,63
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,81
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,50
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,47
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,54
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,48
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,39
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,32
+9/25/10,Saturday,18, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,28
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,52
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,25
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,15
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,11
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,7
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,4
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,7
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,13
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,26
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,24
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,44
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,68
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,102
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,98
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,118
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,117
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,107
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,117
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,94
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,83
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,83
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,36
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,57
+9/19/10,Sunday,20, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,42
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,21
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,17
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,10
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,13
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,6
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,3
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,16
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,16
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,38
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,66
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,84
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,123
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,124
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,117
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,107
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,118
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,108
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,87
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,75
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,46
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,44
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,34
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,21
+9/19/10,Sunday,20, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,25
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,46
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,23
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,13
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,16
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,7
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,7
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,6
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,12
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,19
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,33
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,51
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,73
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,87
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,106
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,131
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,113
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,129
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,146
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,114
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,83
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,72
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,48
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,49
+9/26/10,Sunday,17, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,47
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,30
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,23
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,14
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,12
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,10
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,2
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,23
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,13
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,40
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,68
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,64
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,82
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,109
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,110
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,105
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,62
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,105
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,81
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,75
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,59
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,27
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,18
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,8
+9/26/10,Sunday,17, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,4
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,18
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,10
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,3
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,2
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,3
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,4
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,12
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,33
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,88
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,70
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,87
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,108
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,117
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,109
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,114
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,193
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,272
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,370
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,253
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,154
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,140
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,117
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,74
+9/20/10,Monday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,46
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,10
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,11
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,1
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,3
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,4
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,6
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,29
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,122
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,413
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,279
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,175
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,167
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,151
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,146
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,130
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,113
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,149
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,148
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,110
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,44
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,31
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,47
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,27
+9/20/10,Monday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,21
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,28
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,19
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,3
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,2
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,0
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,8
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,11
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,36
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,63
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,68
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,69
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,102
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,154
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,112
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,134
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,198
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,259
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,390
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,275
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,200
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,124
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,164
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,91
+9/21/10,Tuesday,25, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,54
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,16
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,7
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,3
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,2
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,4
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,8
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,46
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,140
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,380
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,310
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,173
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,126
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,134
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,161
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,85
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,88
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,86
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,135
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,97
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,66
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,52
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,56
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,43
+9/21/10,Tuesday,25, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,32
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,30
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,14
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,3
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,3
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,0
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,4
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,10
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,15
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,44
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,39
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,54
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,50
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,99
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,114
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,98
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,144
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,210
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,249
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,192
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,157
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,142
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,123
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,91
+9/22/10,Wednesday,23, Rain 6mm,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,66
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,15
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,17
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,5
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,4
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,4
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,9
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,43
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,72
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,226
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,222
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,134
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,123
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,101
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,118
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,103
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,103
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,106
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,134
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,104
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,73
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,34
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,48
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,39
+9/22/10,Wednesday,23, Rain 6mm,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,24
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,39
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,27
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,5
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,7
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,0
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,3
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,13
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,38
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,79
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,67
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,66
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,85
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,118
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,100
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,114
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,168
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,220
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,347
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,241
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,180
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,130
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,118
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,104
+9/23/10,Thursday,19, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,88
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,25
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,9
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,7
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,11
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,4
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,11
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,50
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,142
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,352
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,336
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,175
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,139
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,126
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,131
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,113
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,123
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,151
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,146
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,120
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,70
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,54
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,40
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,30
+9/23/10,Thursday,19, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,24
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 AM,49
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 AM,24
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 AM,9
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 AM,2
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 AM,1
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 AM,5
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 AM,8
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 AM,30
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 AM,73
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 AM,72
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 AM,71
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 AM,102
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,12:00:00 PM,124
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,1:00:00 PM,152
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,2:00:00 PM,144
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,3:00:00 PM,198
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,4:00:00 PM,265
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,5:00:00 PM,286
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,6:00:00 PM,180
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,7:00:00 PM,136
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,8:00:00 PM,97
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,9:00:00 PM,95
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,10:00:00 PM,100
+9/24/10,Friday,30, No Rain,Westbound,Bike lane just east of Spadina Ave.,11:00:00 PM,80
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 AM,24
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 AM,17
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 AM,13
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 AM,8
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 AM,5
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 AM,5
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 AM,41
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 AM,137
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 AM,306
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 AM,263
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 AM,159
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 AM,141
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,12:00:00 PM,137
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,1:00:00 PM,106
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,2:00:00 PM,102
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,3:00:00 PM,126
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,4:00:00 PM,72
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,5:00:00 PM,89
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,6:00:00 PM,61
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,7:00:00 PM,81
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,8:00:00 PM,52
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,9:00:00 PM,51
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,10:00:00 PM,41
+9/24/10,Friday,30, No Rain,Eastbound,Bike lane just west of Spadina Ave.,11:00:00 PM,33
+2017-09-27,Wednesday,30, No Rain,Eastbound,,12:00 AM,23
+2017-09-27,Wednesday,30, No Rain,Eastbound,,1:00 AM,9
+2017-09-27,Wednesday,30, No Rain,Eastbound,,2:00 AM,7
+2017-09-27,Wednesday,30, No Rain,Eastbound,,3:00 AM,4
+2017-09-27,Wednesday,30, No Rain,Eastbound,,4:00 AM,5
+2017-09-27,Wednesday,30, No Rain,Eastbound,,5:00 AM,7
+2017-09-27,Wednesday,30, No Rain,Eastbound,,6:00 AM,67
+2017-09-27,Wednesday,30, No Rain,Eastbound,,7:00 AM,158
+2017-09-27,Wednesday,30, No Rain,Eastbound,,8:00 AM,511
+2017-09-27,Wednesday,30, No Rain,Eastbound,,9:00 AM,380
+2017-09-27,Wednesday,30, No Rain,Eastbound,,10:00 AM,147
+2017-09-27,Wednesday,30, No Rain,Eastbound,,11:00 AM,144
+2017-09-27,Wednesday,30, No Rain,Eastbound,,12:00 PM,159
+2017-09-27,Wednesday,30, No Rain,Eastbound,,1:00 PM,145
+2017-09-27,Wednesday,30, No Rain,Eastbound,,2:00 PM,119
+2017-09-27,Wednesday,30, No Rain,Eastbound,,3:00 PM,118
+2017-09-27,Wednesday,30, No Rain,Eastbound,,4:00 PM,128
+2017-09-27,Wednesday,30, No Rain,Eastbound,,5:00 PM,191
+2017-09-27,Wednesday,30, No Rain,Eastbound,,6:00 PM,151
+2017-09-27,Wednesday,30, No Rain,Eastbound,,7:00 PM,77
+2017-09-27,Wednesday,30, No Rain,Eastbound,,8:00 PM,77
+2017-09-27,Wednesday,30, No Rain,Eastbound,,9:00 PM,81
+2017-09-27,Wednesday,30, No Rain,Eastbound,,10:00 PM,46
+2017-09-27,Wednesday,30, No Rain,Eastbound,,11:00 PM,40
+2017-09-27,Wednesday,30, No Rain,Westbound,,12:00 AM,43
+2017-09-27,Wednesday,30, No Rain,Westbound,,1:00 AM,27
+2017-09-27,Wednesday,30, No Rain,Westbound,,2:00 AM,9
+2017-09-27,Wednesday,30, No Rain,Westbound,,3:00 AM,2
+2017-09-27,Wednesday,30, No Rain,Westbound,,4:00 AM,6
+2017-09-27,Wednesday,30, No Rain,Westbound,,5:00 AM,5
+2017-09-27,Wednesday,30, No Rain,Westbound,,6:00 AM,24
+2017-09-27,Wednesday,30, No Rain,Westbound,,7:00 AM,34
+2017-09-27,Wednesday,30, No Rain,Westbound,,8:00 AM,100
+2017-09-27,Wednesday,30, No Rain,Westbound,,9:00 AM,116
+2017-09-27,Wednesday,30, No Rain,Westbound,,10:00 AM,61
+2017-09-27,Wednesday,30, No Rain,Westbound,,11:00 AM,131
+2017-09-27,Wednesday,30, No Rain,Westbound,,12:00 PM,139
+2017-09-27,Wednesday,30, No Rain,Westbound,,1:00 PM,134
+2017-09-27,Wednesday,30, No Rain,Westbound,,2:00 PM,164
+2017-09-27,Wednesday,30, No Rain,Westbound,,3:00 PM,170
+2017-09-27,Wednesday,30, No Rain,Westbound,,4:00 PM,301
+2017-09-27,Wednesday,30, No Rain,Westbound,,5:00 PM,394
+2017-09-27,Wednesday,30, No Rain,Westbound,,6:00 PM,328
+2017-09-27,Wednesday,30, No Rain,Westbound,,7:00 PM,208
+2017-09-27,Wednesday,30, No Rain,Westbound,,8:00 PM,178
+2017-09-27,Wednesday,30, No Rain,Westbound,,9:00 PM,139
+2017-09-27,Wednesday,30, No Rain,Westbound,,10:00 PM,99
+2017-09-27,Wednesday,30, No Rain,Westbound,,11:00 PM,61
+2017-09-28,Thursday,19, No Rain,Eastbound,,12:00 AM,22
+2017-09-28,Thursday,19, No Rain,Eastbound,,1:00 AM,6
+2017-09-28,Thursday,19, No Rain,Eastbound,,2:00 AM,9
+2017-09-28,Thursday,19, No Rain,Eastbound,,3:00 AM,3
+2017-09-28,Thursday,19, No Rain,Eastbound,,4:00 AM,7
+2017-09-28,Thursday,19, No Rain,Eastbound,,5:00 AM,16
+2017-09-28,Thursday,19, No Rain,Eastbound,,6:00 AM,62
+2017-09-28,Thursday,19, No Rain,Eastbound,,7:00 AM,155
+2017-09-28,Thursday,19, No Rain,Eastbound,,8:00 AM,480
+2017-09-28,Thursday,19, No Rain,Eastbound,,9:00 AM,333
+2017-09-28,Thursday,19, No Rain,Eastbound,,10:00 AM,171
+2017-09-28,Thursday,19, No Rain,Eastbound,,11:00 AM,148
+2017-09-28,Thursday,19, No Rain,Eastbound,,12:00 PM,144
+2017-09-28,Thursday,19, No Rain,Eastbound,,1:00 PM,137
+2017-09-28,Thursday,19, No Rain,Eastbound,,2:00 PM,134
+2017-09-28,Thursday,19, No Rain,Eastbound,,3:00 PM,113
+2017-09-28,Thursday,19, No Rain,Eastbound,,4:00 PM,113
+2017-09-28,Thursday,19, No Rain,Eastbound,,5:00 PM,151
+2017-09-28,Thursday,19, No Rain,Eastbound,,6:00 PM,143
+2017-09-28,Thursday,19, No Rain,Eastbound,,7:00 PM,105
+2017-09-28,Thursday,19, No Rain,Eastbound,,8:00 PM,70
+2017-09-28,Thursday,19, No Rain,Eastbound,,9:00 PM,69
+2017-09-28,Thursday,19, No Rain,Eastbound,,10:00 PM,45
+2017-09-28,Thursday,19, No Rain,Eastbound,,11:00 PM,39
+2017-09-28,Thursday,19, No Rain,Westbound,,12:00 AM,39
+2017-09-28,Thursday,19, No Rain,Westbound,,1:00 AM,12
+2017-09-28,Thursday,19, No Rain,Westbound,,2:00 AM,8
+2017-09-28,Thursday,19, No Rain,Westbound,,3:00 AM,10
+2017-09-28,Thursday,19, No Rain,Westbound,,4:00 AM,4
+2017-09-28,Thursday,19, No Rain,Westbound,,5:00 AM,2
+2017-09-28,Thursday,19, No Rain,Westbound,,6:00 AM,21
+2017-09-28,Thursday,19, No Rain,Westbound,,7:00 AM,43
+2017-09-28,Thursday,19, No Rain,Westbound,,8:00 AM,82
+2017-09-28,Thursday,19, No Rain,Westbound,,9:00 AM,106
+2017-09-28,Thursday,19, No Rain,Westbound,,10:00 AM,49
+2017-09-28,Thursday,19, No Rain,Westbound,,11:00 AM,96
+2017-09-28,Thursday,19, No Rain,Westbound,,12:00 PM,142
+2017-09-28,Thursday,19, No Rain,Westbound,,1:00 PM,119
+2017-09-28,Thursday,19, No Rain,Westbound,,2:00 PM,158
+2017-09-28,Thursday,19, No Rain,Westbound,,3:00 PM,169
+2017-09-28,Thursday,19, No Rain,Westbound,,4:00 PM,308
+2017-09-28,Thursday,19, No Rain,Westbound,,5:00 PM,402
+2017-09-28,Thursday,19, No Rain,Westbound,,6:00 PM,312
+2017-09-28,Thursday,19, No Rain,Westbound,,7:00 PM,213
+2017-09-28,Thursday,19, No Rain,Westbound,,8:00 PM,150
+2017-09-28,Thursday,19, No Rain,Westbound,,9:00 PM,133
+2017-09-28,Thursday,19, No Rain,Westbound,,10:00 PM,101
+2017-09-28,Thursday,19, No Rain,Westbound,,11:00 PM,72
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,12:00 AM,15
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,1:00 AM,13
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,2:00 AM,9
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,3:00 AM,3
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,4:00 AM,11
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,5:00 AM,6
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,6:00 AM,55
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,7:00 AM,107
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,8:00 AM,389
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,9:00 AM,262
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,10:00 AM,82
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,11:00 AM,66
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,12:00 PM,62
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,1:00 PM,45
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,2:00 PM,91
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,3:00 PM,100
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,4:00 PM,123
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,5:00 PM,119
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,6:00 PM,99
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,7:00 PM,67
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,8:00 PM,48
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,9:00 PM,46
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,10:00 PM,20
+2017-09-29,Friday,18,Rain 4mm,Eastbound,,11:00 PM,16
+2017-09-29,Friday,18,Rain 4mm,Westbound,,12:00 AM,40
+2017-09-29,Friday,18,Rain 4mm,Westbound,,1:00 AM,15
+2017-09-29,Friday,18,Rain 4mm,Westbound,,2:00 AM,8
+2017-09-29,Friday,18,Rain 4mm,Westbound,,3:00 AM,5
+2017-09-29,Friday,18,Rain 4mm,Westbound,,4:00 AM,4
+2017-09-29,Friday,18,Rain 4mm,Westbound,,5:00 AM,8
+2017-09-29,Friday,18,Rain 4mm,Westbound,,6:00 AM,9
+2017-09-29,Friday,18,Rain 4mm,Westbound,,7:00 AM,28
+2017-09-29,Friday,18,Rain 4mm,Westbound,,8:00 AM,77
+2017-09-29,Friday,18,Rain 4mm,Westbound,,9:00 AM,76
+2017-09-29,Friday,18,Rain 4mm,Westbound,,10:00 AM,41
+2017-09-29,Friday,18,Rain 4mm,Westbound,,11:00 AM,63
+2017-09-29,Friday,18,Rain 4mm,Westbound,,12:00 PM,68
+2017-09-29,Friday,18,Rain 4mm,Westbound,,1:00 PM,79
+2017-09-29,Friday,18,Rain 4mm,Westbound,,2:00 PM,96
+2017-09-29,Friday,18,Rain 4mm,Westbound,,3:00 PM,144
+2017-09-29,Friday,18,Rain 4mm,Westbound,,4:00 PM,250
+2017-09-29,Friday,18,Rain 4mm,Westbound,,5:00 PM,320
+2017-09-29,Friday,18,Rain 4mm,Westbound,,6:00 PM,223
+2017-09-29,Friday,18,Rain 4mm,Westbound,,7:00 PM,130
+2017-09-29,Friday,18,Rain 4mm,Westbound,,8:00 PM,83
+2017-09-29,Friday,18,Rain 4mm,Westbound,,9:00 PM,58
+2017-09-29,Friday,18,Rain 4mm,Westbound,,10:00 PM,52
+2017-09-29,Friday,18,Rain 4mm,Westbound,,11:00 PM,47
+2017-09-30,Saturday,15, No Rain,Eastbound,,12:00 AM,30
+2017-09-30,Saturday,15, No Rain,Eastbound,,1:00 AM,18
+2017-09-30,Saturday,15, No Rain,Eastbound,,2:00 AM,5
+2017-09-30,Saturday,15, No Rain,Eastbound,,3:00 AM,9
+2017-09-30,Saturday,15, No Rain,Eastbound,,4:00 AM,2
+2017-09-30,Saturday,15, No Rain,Eastbound,,5:00 AM,7
+2017-09-30,Saturday,15, No Rain,Eastbound,,6:00 AM,19
+2017-09-30,Saturday,15, No Rain,Eastbound,,7:00 AM,21
+2017-09-30,Saturday,15, No Rain,Eastbound,,8:00 AM,59
+2017-09-30,Saturday,15, No Rain,Eastbound,,9:00 AM,65
+2017-09-30,Saturday,15, No Rain,Eastbound,,10:00 AM,60
+2017-09-30,Saturday,15, No Rain,Eastbound,,11:00 AM,88
+2017-09-30,Saturday,15, No Rain,Eastbound,,12:00 PM,102
+2017-09-30,Saturday,15, No Rain,Eastbound,,1:00 PM,104
+2017-09-30,Saturday,15, No Rain,Eastbound,,2:00 PM,100
+2017-09-30,Saturday,15, No Rain,Eastbound,,3:00 PM,115
+2017-09-30,Saturday,15, No Rain,Eastbound,,4:00 PM,101
+2017-09-30,Saturday,15, No Rain,Eastbound,,5:00 PM,106
+2017-09-30,Saturday,15, No Rain,Eastbound,,6:00 PM,90
+2017-09-30,Saturday,15, No Rain,Eastbound,,7:00 PM,90
+2017-09-30,Saturday,15, No Rain,Eastbound,,8:00 PM,77
+2017-09-30,Saturday,15, No Rain,Eastbound,,9:00 PM,79
+2017-09-30,Saturday,15, No Rain,Eastbound,,10:00 PM,85
+2017-09-30,Saturday,15, No Rain,Eastbound,,11:00 PM,58
+2017-09-30,Saturday,15, No Rain,Westbound,,12:00 AM,33
+2017-09-30,Saturday,15, No Rain,Westbound,,1:00 AM,13
+2017-09-30,Saturday,15, No Rain,Westbound,,2:00 AM,11
+2017-09-30,Saturday,15, No Rain,Westbound,,3:00 AM,6
+2017-09-30,Saturday,15, No Rain,Westbound,,4:00 AM,4
+2017-09-30,Saturday,15, No Rain,Westbound,,5:00 AM,7
+2017-09-30,Saturday,15, No Rain,Westbound,,6:00 AM,6
+2017-09-30,Saturday,15, No Rain,Westbound,,7:00 AM,14
+2017-09-30,Saturday,15, No Rain,Westbound,,8:00 AM,22
+2017-09-30,Saturday,15, No Rain,Westbound,,9:00 AM,37
+2017-09-30,Saturday,15, No Rain,Westbound,,10:00 AM,48
+2017-09-30,Saturday,15, No Rain,Westbound,,11:00 AM,89
+2017-09-30,Saturday,15, No Rain,Westbound,,12:00 PM,100
+2017-09-30,Saturday,15, No Rain,Westbound,,1:00 PM,96
+2017-09-30,Saturday,15, No Rain,Westbound,,2:00 PM,109
+2017-09-30,Saturday,15, No Rain,Westbound,,3:00 PM,114
+2017-09-30,Saturday,15, No Rain,Westbound,,4:00 PM,132
+2017-09-30,Saturday,15, No Rain,Westbound,,5:00 PM,136
+2017-09-30,Saturday,15, No Rain,Westbound,,6:00 PM,120
+2017-09-30,Saturday,15, No Rain,Westbound,,7:00 PM,98
+2017-09-30,Saturday,15, No Rain,Westbound,,8:00 PM,79
+2017-09-30,Saturday,15, No Rain,Westbound,,9:00 PM,62
+2017-09-30,Saturday,15, No Rain,Westbound,,10:00 PM,80
+2017-09-30,Saturday,15, No Rain,Westbound,,11:00 PM,82
